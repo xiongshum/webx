@@ -1,0 +1,25 @@
+.clearFix:after{content:'200B';font-size:0;height:0;display:block;clear:both;}
+.header{position: relative;}
+.main .inner{width:1170px;margin: 0 auto;}
+.main .smallMenu{padding-top: 16px;}
+.main .smallMenu li{float: left;color: #979797;height: 40px;line-height: 40px;font-size: 12px;}
+.main .smallMenu li a{color: #494949;padding:0 5px;}
+.main .smallMenu  .smallMenuAc a{color: #988469;}
+.main .news{height:20px;line-height: 20px;font-size: 20px;color: #adadad;}
+.main .newsContent{text-align: center;color: #494949;}
+.main .newsContent h2{height:30px;line-height: 30px;font-size: 20px;color: #494949;}
+.main .newsContent i{font-style: normal;font-size: 12px;}
+.main .wrap{width:725px;height:643px;margin: 0 auto;position: relative;overflow: hidden;padding-top: 25px;}
+.main .wrap .slide{position: absolute;}
+.main .wrap .slide li{float: left;}
+.main .wrap .btnSlide{position: absolute;bottom:40px;left:40%;}
+.main .wrap .btnSlide li{width:20px;height:20px;border-radius: 10px;background-color: #9a9595;float: left;margin: 0 10px}
+.main .wrap .btnSlide .slideBtnAc{background-color: #313131;}
+.main .wrapper{width:1022px;height:222px;position: relative;margin: 10px auto;overflow: hidden;}
+.main .wrapper .pre{position: absolute;top:30%;left:-4px;display: block;width:20px;height:100px;background-color: #d9d6d6;color: white;text-align: center;line-height: 100px;z-index: 2}
+.main .wrapper .next{position: absolute;top:30%;right:1px;display: block;width:20px;height:100px;background-color: #d9d6d6;color: white;text-align: center;line-height: 100px;z-index: 2}
+.main .wrapper .slideTab{width:2028px;position: absolute;left: 0;}
+.main .wrapper .slideTab li{float: left;margin: 0 20px;}
+.main .textCon{padding: 24px 0 55px;}
+.main .textCon .text{color: #100101;font-size: 12px;line-height: 27px;padding-top: 30px;text-indent: 2em;}
+

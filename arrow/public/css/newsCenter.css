@@ -1,0 +1,41 @@
+.banner{background: url("../images/newsCenterBanner.png") no-repeat top;height: 721px;overflow: hidden;}
+.main{height: 1877px;}
+.main .inner{width: 1200px;height: 1877px;margin: auto;}
+.main .inner .top{height: 55px;}
+.main .inner .top ul{float: left;margin-top: 22px;}
+.main .inner .top li{float: left;line-height: 33px;}
+.main .inner .top li a{color: #494949;}
+.main .inner .top .yanse a{color: #988469}
+.main .inner .top span{float: right;margin-top: 22px;display: block;}
+.main .inner .top span a{color:#988469;}
+.main .inner .zhong{width: 1200px;height: 1px;background: #dcd3d3;}
+.main .inner .ac{height: 295px;position: relative;}
+.main .inner .ac .pc{position: absolute;left: 529px;top: 22px;width: 134px;height: 53px;}
+.main .inner .ac ul{padding-top: 107px;}
+.main .inner .ac .one{float:left;width: 234px;height: 153px;margin-right: 80px;background: #e5e5e5;text-align: center;}
+.main .inner .ac .one i{padding-top: 23px;}
+.main .inner .ac .one h3{font-size: 16px; color: #878787;line-height: 40px;}
+.main .inner .ac .one p{font-size: 14px;color:#878787;line-height: 14px; }
+.main .inner .ac li{float:left;width: 234px;height: 153px;margin-right: 90px;text-align: center;}
+.main .inner .ac li i{padding-top: 23px;display: block;}
+.main .inner .ac li h3{font-size: 16px; color: #878787;line-height: 40px;}
+.main .inner .ac li p{font-size: 14px;color:#878787;line-height: 16px; }
+.main .inner .ac .for{float:left;width: 234px;height: 153px;text-align: center;margin-right: -90px;}
+.main .inner .ac .for i{padding-top: 23px;display: block;}
+.main .inner .ac .for h3{font-size: 16px; color: #878787;line-height: 40px;}
+.main .inner .ac .for p{font-size: 14px;color:#878787;line-height: 16px; }
+.main .inner .chanpin{height: 1525px;}
+.main .inner .chanpin .tp{float: left;width: 600px;height: 345px;margin-right: 48px;margin-bottom: 35px;}
+.main .inner .chanpin .wz{float: left;width: 552px;height: 345px;margin-bottom: 35px;position: relative;}
+.main .inner .chanpin .wz h4{color: #878787;line-height: 40px;font-size: 20px;}
+.main .inner .chanpin .wz p{color: #878787;font-size: 14px;line-height: 20px;}
+.main .inner .chanpin .wz .zj{color: #878787;font-size: 16px;padding-top: 26px;}
+.main .inner .chanpin .wz a{display: block;background: #acacac;width: 80px;height: 30px;font-size: 14px;color: #f5f5f5;position: absolute;right: 0;top: 280px;line-height: 30px;text-align: center}
+.main .inner .chanpin .pt{float: left;width: 600px;height: 345px;margin-left: 48px;margin-bottom: 35px;}
+.main .inner .chanpin .zw{float: left;width: 552px;height: 345px;margin-bottom: 35px;}
+.main .inner .chanpin .zw{float: left;width: 552px;height: 345px;margin-bottom: 35px;position: relative;}
+.main .inner .chanpin .zw h4{color: #494949;line-height: 40px;font-size: 20px;}
+.main .inner .chanpin .zw p{color: #494949;font-size: 14px;line-height: 20px;}
+.main .inner .chanpin .zw a{display: block;background: #acacac;width: 80px;height: 30px;font-size: 14px;color: #f5f5f5;position: absolute;right: 0;top: 280px;line-height: 30px;text-align: center}
+
+

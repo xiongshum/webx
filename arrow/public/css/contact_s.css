@@ -1,0 +1,58 @@
+.new{width: 1200px;margin: 0 auto;}
+.new h3{font-size: 17px;color: #595959;}
+.new h3 span{color: #a69580;}
+.new .tubiao{text-align: center;margin: 55px 0 30px 0;}
+.new ul{width: 1200px;}
+.new .newfloat{width: 234px;height: 152px;float: left;position: relative;margin-right: 7px;margin-bottom: 57px;;text-align: center;cursor: pointer}
+.new .newfloat img{margin-top: 20px;}
+.new .right{margin-right: 0;}
+.new .newfloat .newBox{width: 234px;height: 127px;text-align: center;padding-top: 25px;position: absolute;top: 0;left: 0;}
+.new .newfloat .newBox a{color: #fcf9f9;}
+.new .newfloat:hover a{color: #b9b19d}
+.new .marketingCenter_sAc{background: #d9d9d9;}
+
+.main{position: relative;margin-bottom: 30px;}
+.main .inner{width:1200px;position: relative;margin: 0 auto;font-family:  "微软雅黑"}
+.main .inner .warp{border-left: 10px solid #666;margin-left: 20px;}
+.main .inner .warp .item{position: relative;margin-left: 60px;}
+.main .inner .warp h3:before{content:"";width:15px;height: 15px;background: #aaa;position: absolute;top:-1px;left: -77px;border-radius: 50%;border: 5px solid #666;}
+.main .inner .warp h3{font-size: 18px;color: #a01e1b;line-height: 38px;font-weight: bolder}
+.main .inner .warp h4{font-size: 16px;color: #494949;line-height: 33px;padding-bottom: 18px;}
+.main .inner .warp dl{font-size: 16px;color: #494949;line-height: 21px;position: relative}
+.main .inner .warp dl span{font-size: 18px;color: #ce2723;position: absolute;right:303px;}
+.main .inner .warp dl span a{color:#494949;font-size: 14px; }
+
+/*联系我们*/
+.finnaly{overflow: hidden}
+.new h3{font-family:  "微软雅黑";font-size: 14px;font-weight: normal}
+.contact_t h3{font-size: 18px;color: #a01e1b;line-height: 28px;font-family: "微软雅黑"}
+.contact_t h4{font-size: 16px;color: #494949;padding-top: 30px;font-family: "微软雅黑"}
+.contact_t h5{font-size: 14px;color: #494949;line-height: 35px;font-family: "微软雅黑"}
+.contact_t li{color: #494949;}
+.contact_t p{color: #494949;}
+.contact_t .item{margin-top: 30px;font-size: 15px;font-family: "微软雅黑"}
+.contact_t .mar{margin-top: 10px;}
+.contact_t .text{line-height: 30px;font-size: 15px;font-family: "微软雅黑"}
+
+/*行销中心*/
+.marketing{margin-top: 150px;}
+.marketing p{font-size: 14px;font-family: "微软雅黑";color: #494949;}
+.marketing h3{text-align: center;color: #494949;}
+.marketing .inner{text-align: center}
+.marketing .inner .ifo{text-align: left;font-size: 14px;font-family: "微软雅黑";color: #494949;margin-top: 53px;}
+.marketing .inner .ifo .lineHeight{line-height: 45px;}
+.marketing .inner .ifo .map{text-align: center;margin-top: 68px;}
+
+/*行销中心二级页面*/
+.marketingCenter_s .item{height: 123px;position: relative;}
+.marketingCenter_s .item img{position: absolute;top:-63px;left: 0px;z-index: -1}
+.marketingCenter_s .item  p{float: left;font-size: 18px;color: #fff; }
+.marketingCenter_s .item p span{margin-left: 30px;}
+.marketingCenter_s .item span{line-height: 60px;}
+.marketingCenter_s .item .detail{height: 60px;background: #e2e2e2;margin-left: 224px;position: relative;z-index: -2;font-size: 15px;}
+.marketingCenter_s .item .detail .address{padding-left: 60px;}
+.marketingCenter_s .item .detail a{font-size: 14px;float: right;margin-right: 30px;line-height: 60px;}
+.marketingCenter_s .item .detail a span{width:9px;height: 9px;background: url("../images/downArrow.png") no-repeat;display: inline-block}
+.marketingCenter_s .pageNum{width: 240px;margin: 0 auto}
+.marketingCenter_s .pageNum>div {float: left;font-size: 13px;cursor: pointer;margin:0 10px;}
+

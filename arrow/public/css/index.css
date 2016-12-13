@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,h1,h2,h3,h4,h5,h6,p,ul,ol，li,input{margin:0;padding:0;font-family: "Microsoft YaHei"}
+a{font-family: "Microsoft YaHei"}
+ul,ol{list-style:none;}
+a{text-decoration:none;transition:all 0.5s ease;}
+img,input{border:none;}
+.clear:after{content:"200B";height:0;font-size:0;clear:both;display:block;*zoom:1;}
+
+
+.header{background:#000000;opacity:0.6;position:absolute;top:0;width:100%;z-index: 999;position: fixed;}
+.header .inner{width:1200px;margin:0 auto;height:110px;padding-top:30px;}
+.header .inner .search{position:relative;}
+.header .inner input{float:right;border-radius:12px;border:1px solid #b9b19d;width:170px;height:23px;background:#000000;opacity:0.6;}
+.header .inner i{position: absolute;top:4px;right: 14px;}
+.header .inner .logo{float:left;margin-top: 20px;}
+.header .inner ul{float:right;padding-top: 10px;}
+.header .inner ul .nav{float:left;text-align: center; }
+.header .inner ul .right{margin-right: 0;}
+.header .inner ul .nav a{color:#c6c6c6;font-size: 18px;}
+.header .inner ul .nav a:hover{color:#b9b19d}
+.header .inner ul .nav p{font-size: 12px;}
+
+
+.footer{background: #545454;height: 270px;}
+.footer .inner{width: 1186px;margin: 0 auto;padding-top: 24px;padding-left: 14px;}
+.footer .inner .box{width: 142px;float: left;}
+.footer .inner .box h3{height: 52px;line-height: 52px;position: relative;color: #dfdfdf;font-size: 16px;}
+.footer .inner .box i{position: absolute;bottom: -12px;left: 0;}
+.footer .inner .box a{line-height: 24px;color: #b8b8b8;font-size: 14px;}
+.footer .inner .box a:hover{color: #e4c8b0}
+.footer .inner .boxx{width: 425px;float: right;position: relative;padding-top: 10px;height: 220px;color:#b9b19d }
+.footer .inner .boxx i{position: absolute;left: -30px;top:10px;}
+.footer .inner .boxx .left{width: 308px;float: left;}
+.footer .inner .boxx .left h3{font-size: 16px;color: #b9b19d;line-height: 30px; }
+.footer .inner .boxx .left p{font-size: 14px;color: #b9b19d;}
+.footer .inner .boxx .left .zuo{width: 70px;float: left;}
+.footer .inner .boxx .left .you{width: 223px;float: left;margin-bottom: 35px;}
+.footer .inner .boxx .left time{font-size: 20px;font-weight: bolder;}
+.footer .inner .boxx .right{width: 114px;text-align: center;float: right;}
+.di{height: 50px;text-align: center;line-height: 50px;background: #464646;}
+.di p{font-size: 14px;color: #808080;font-weight: bolder;}
